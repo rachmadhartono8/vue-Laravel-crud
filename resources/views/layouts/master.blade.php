@@ -8,7 +8,7 @@
   <meta name="csrf-token" content="{{ csrf_token() }}">
 
   <title>{{ config('app.name', 'Laravel') }}</title>
-  
+
 
   <link rel="stylesheet" href="{{ mix('/css/app.css') }}">
 </head>
@@ -45,7 +45,7 @@
     <router-link to="/dashboard" class="brand-link">
       <img src="{{ asset('/images/logo.png') }}" alt="The Logo" class="brand-image img-circle elevation-3"
            style="opacity: .8">
-      <span class="brand-text font-weight-light">{{ config('app.name', 'Laravel') }}</span>
+      <span class="brand-text font-weight-light">{{ config('app.name', 'Aplikasi Monitoring API') }}</span>
     </router-link>
 
     <!-- Sidebar -->
@@ -76,7 +76,7 @@
   {{-- Content Wrapper. Contains page content --}}
   <div class="content-wrapper">
     {{-- Main content --}}
-    
+
     <!-- Content Header (Page header) -->
     <div class="content-header">
       <div class="container-fluid">

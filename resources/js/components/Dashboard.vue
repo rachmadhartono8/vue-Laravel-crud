@@ -104,7 +104,7 @@
                                 </tr>
                                 <tr>
                                     <td><a href="pages/examples/invoice.html">OR1848</a></td>
-                                    <td>Samsung Smart TV</td>
+                                    <td>Huda</td>
                                     <td><span class="badge badge-warning">Pending</span></td>
                                     <td>
                                         <div class="sparkbar" data-color="#f39c12" data-height="20">90,80,-90,70,61,-83,68</div>
@@ -112,7 +112,7 @@
                                 </tr>
                                 <tr>
                                     <td><a href="pages/examples/invoice.html">OR7429</a></td>
-                                    <td>iPhone 6 Plus</td>
+                                    <td>Gana</td>
                                     <td><span class="badge badge-danger">Delivered</span></td>
                                     <td>
                                         <div class="sparkbar" data-color="#f56954" data-height="20">90,-80,90,70,-61,83,63</div>
@@ -120,7 +120,7 @@
                                 </tr>
                                 <tr>
                                     <td><a href="pages/examples/invoice.html">OR7429</a></td>
-                                    <td>Samsung Smart TV</td>
+                                    <td>Welly</td>
                                     <td><span class="badge badge-info">Processing</span></td>
                                     <td>
                                         <div class="sparkbar" data-color="#00c0ef" data-height="20">90,80,-90,70,-61,83,63</div>
@@ -128,7 +128,7 @@
                                 </tr>
                                 <tr>
                                     <td><a href="pages/examples/invoice.html">OR1848</a></td>
-                                    <td>Samsung Smart TV</td>
+                                    <td>Anton</td>
                                     <td><span class="badge badge-warning">Pending</span></td>
                                     <td>
                                         <div class="sparkbar" data-color="#f39c12" data-height="20">90,80,-90,70,61,-83,68</div>
